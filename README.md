@@ -1,16 +1,17 @@
-## Hi there 👋
+# Halo 👋, saya Cemplon Lukito
 
-<!--
-**ivandi15/ivandi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Saya seorang mahasiswa Informatika yang suka mempelajari bahasa pemrograman baru, membuat aplikasi, dan mengembangkan project menarik.  
+🎣 Selain programming, saya hobi **memancing**, **olahraga**, dan terus belajar hal baru.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** Python, Java, Dart, JavaScript, PHP  
+- **Frameworks:** Flutter, Laravel, CodeIgniter 4, Bootstrap, Tailwind 
+- **Databases:** MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github.com/ivandi15)
+
+## 🔗 Connect with me
+- 📘 [LinkedIn](https://www.linkedin.com/in/ivandi-saputro-987b6624a?trk=contact-info)  
+- 📷 [Instagram](https://www.instagram.com/cemplonwywsh_?igsh=b2FobmdtcDFtcXAw)  
+- 🌐 [Portfolio Website](https://ivandi15.github.io/My-Portofolio/)
