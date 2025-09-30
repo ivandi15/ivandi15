@@ -9,9 +9,9 @@
 - **Databases:** MySQL  
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github.com/ivandi15)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivandi15&show_icons=true&theme=radical)
 
 ## 🔗 Connect with me
 - 📘 [LinkedIn](https://www.linkedin.com/in/ivandi-saputro-987b6624a?trk=contact-info)  
-- 📷 [Instagram](https://www.instagram.com/cemplonwywsh_?igsh=b2FobmdtcDFtcXAw)  
+- 📷 [Instagram](https://www.instagram.com/cemplonwywsh_?igsh=b2FobmdtcDFtcXAw)
 - 🌐 [Portfolio Website](https://ivandi15.github.io/My-Portofolio/)
